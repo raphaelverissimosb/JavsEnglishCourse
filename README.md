@@ -1,1 +1,2 @@
-Edit your read me!
+# Java Programmig Master Class (Teacher Tim Buchalka)
+***
